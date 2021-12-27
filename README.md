@@ -6,7 +6,7 @@ Hello everyone 😀
 
 💻 - free script for fivem.
 
-⚡ - I work for GtaFive & OneLife & astV.
+⚡ - I work for Offline, GtaFive & OneLife.
 
 <p align="center">
   <a href="https://www.youtube.com/channel/UCmrrseP4_6H3duNgZ4_Q6KQ/videos"><img alt="Youtube" src="https://img.shields.io/badge/YouTube-Altix-red?style=flat-square&logo=youtube"></a> <br>
